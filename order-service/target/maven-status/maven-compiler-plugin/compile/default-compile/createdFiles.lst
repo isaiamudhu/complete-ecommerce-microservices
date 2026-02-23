@@ -1,0 +1,9 @@
+com\ecommerce\order\service\OrderPublisher.class
+com\ecommerce\order\OrdersApplication.class
+com\ecommerce\order\event\OrderEvent.class
+com\ecommerce\order\config\RabbitMQConfig.class
+com\ecommerce\order\service\OrdersService.class
+com\ecommerce\order\repository\OrdersRepository.class
+com\ecommerce\order\entity\Order.class
+com\ecommerce\order\test\OrderServiceTest.class
+com\ecommerce\order\controller\OrdersController.class

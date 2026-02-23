@@ -1,0 +1,10 @@
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\OrdersApplication.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\repository\OrdersRepository.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\controller\OrdersController.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\event\OrderEvent.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\entity\Order.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\config\RabbitMQConfig.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\service\OrderPublisher.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\test\OrderControllerIntegrationTest.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\service\OrdersService.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\order-service\src\main\java\com\ecommerce\order\test\OrderServiceTest.java

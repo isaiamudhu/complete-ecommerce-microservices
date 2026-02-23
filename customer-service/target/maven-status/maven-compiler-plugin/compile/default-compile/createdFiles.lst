@@ -1,0 +1,5 @@
+com\ecommerce\customer\controller\CustomerController.class
+com\ecommerce\customer\CustomerApplication.class
+com\ecommerce\customer\entity\Customer.class
+com\ecommerce\customer\service\CustomerService.class
+com\ecommerce\customer\repository\CustomerRepository.class

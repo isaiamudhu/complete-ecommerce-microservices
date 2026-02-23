@@ -1,0 +1,8 @@
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\service\InventoryService.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\entity\Inventory.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\event\OrderEvent.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\InventoryApplication.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\repository\InventoryRepository.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\service\InventoryConsumer.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\controller\InventoryController.java
+C:\Users\isaia\OneDrive\Desktop\devops\springboot&microservices\complete-ecommerce-microservices\inventory-service\src\main\java\com\ecommerce\inventory\config\RabbitMQConfig.java

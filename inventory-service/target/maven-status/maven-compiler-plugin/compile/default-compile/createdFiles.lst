@@ -1,0 +1,8 @@
+com\ecommerce\inventory\entity\Inventory.class
+com\ecommerce\inventory\event\OrderEvent.class
+com\ecommerce\inventory\controller\InventoryController.class
+com\ecommerce\inventory\InventoryApplication.class
+com\ecommerce\inventory\service\InventoryConsumer.class
+com\ecommerce\inventory\config\RabbitMQConfig.class
+com\ecommerce\inventory\repository\InventoryRepository.class
+com\ecommerce\inventory\service\InventoryService.class
